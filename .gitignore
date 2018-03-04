@@ -1,5 +1,7 @@
 # For PCBs designed using KiCad: http://www.kicad-pcb.org/
 
+Docs/
+
 # Temporary files
 *.000
 *.bak
@@ -20,4 +22,3 @@ _autosave-*
 *.xml
 *.csv
 
-Docs/
